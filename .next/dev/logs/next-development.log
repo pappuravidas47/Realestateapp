@@ -1,0 +1,4 @@
+{"timestamp":"00:00:01.761","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:18.987","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\D:\\\\Realestateapp\\\\node_modules\\\\next\\\\dist\\\\esm\\\\client\\\\lib\")."}
+{"timestamp":"00:00:22.294","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:01:04.238","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
